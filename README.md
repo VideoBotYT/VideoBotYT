@@ -1,16 +1,44 @@
-## Hi there 👋
+<h1>Hi, my name is VideoBot</h1>
+<p>I overwork myself a lot of times but never got a burn-out of it</p>
 
-<!--
-**VideoBotYT/VideoBotYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details>
+  <summary>The projects I'm currently working on</summary>
+  <ul>
+    <li>Friday Night Funkin projects
+    <ul>
+        <li>Universe Engine</li>
+        <li>V-Slice Modcharted</li>
+        <li>Spook's Creativity</li>
+        <li>VS Looky</li>
+    </ul>
+    </li>
+    <li>Draconic Evolution City: <i>Minecraft Modpack</i></li>
+  </ul>
+</details>
 
-Here are some ideas to get you started:
+<details>
+  <summary>Things I like to do</summary>
+  <ul>
+    <li>Programming: 
+    <ul>
+      <li>Haxe</li>
+      <li>Lua</li>
+    </ul>
+    </li>
+    <li>Gaming:
+    <ul>
+      <li>NotITG</li>
+      <li>Friday Night Funkin</li>
+      <li>Minecraft</li>
+    </ul>
+    </li>
+  </ul>
+</details>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+  <summary>Things I absolutly <b>LOVE</b> to do</summary>
+  <ul>
+    <li><b>MODCHARTING</b></li>
+    <li>Playing modcharts <i>still bad at it tho</i></li>
+  </ul>
+</details>
