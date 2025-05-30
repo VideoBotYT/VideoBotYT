@@ -7,9 +7,8 @@
     <li>Friday Night Funkin projects
     <ul>
         <li>Universe Engine</li>
-        <li>V-Slice Modcharted</li>
         <li>Spook's Creativity</li>
-        <li>VS Looky</li>
+        <li>Dave Extended</li>
     </ul>
     </li>
     <li>Draconic Evolution City: <i>Minecraft Modpack</i></li>
